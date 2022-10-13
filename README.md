@@ -1,2 +1,2 @@
 # db
-Database for applications i make retrieve content from
+Database for stuff i make retrieve content from
